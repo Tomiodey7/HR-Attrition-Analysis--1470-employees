@@ -94,7 +94,9 @@ HR reported 16.12% attrition (237 of 1470) - above industry healthy benchmark of
 
 **Mid-term (30-90 days):**
 4.  **Retention Program for 18-27:** Mentorship + clear 2-year career path - 28% attrition is too high
+
 5.  **Focus on 3 Critical Roles:** Lab Tech (62), Sales Exec (57), Research Scientist (47) - create role-specific retention (stay interviews, skill growth)
+
 6.  **Stay Interviews for Rating 3 & 4:** They are satisfied but still leaving - likely salary/external pull
 
 **Estimated Impact:** Reducing attrition from 16.12% to 12% saves 60 employees = **$300K annual hiring cost savings**.
